@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Ojas Palorkar</h1>
+<h1 align="center">Hi 👋, I'm Priyanshu Chaturvedi</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
 
 
@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Some New Web Dev Language**
 
-- 👨‍💻My Portfolio Website: [https://ojas13-git.github.io/Ojas-Portfolio/](https://ojas13-git.github.io/Ojas-Portfolio/)
-
-- 📫 How to reach me: **ojas.palorkar@gmail.com**
+- 📫 How to reach me: **messageforpriyanshu@gmail.com**
 
 - ⚡ Fun fact: **Java is to JavaScript is like car is to carpet.**
 
